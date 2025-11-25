@@ -1,10 +1,20 @@
 {
   "name": "geisson-plugins",
   "description": "Personal Claude Code plugins - insights mode for learning architecture patterns",
+  "owner": {
+    "name": "Geisson",
+    "url": "https://github.com/Geisson19"
+  },
   "plugins": [
     {
       "name": "insights-mode",
-      "path": "./plugins/insights-mode"
+      "source": "./plugins/insights-mode",
+      "description": "Explains architecture decisions, trade-offs, and patterns while writing complete code",
+      "version": "1.0.0",
+      "author": {
+        "name": "Geisson"
+      },
+      "category": "education"
     }
   ]
 }
