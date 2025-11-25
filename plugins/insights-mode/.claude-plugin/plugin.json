@@ -1,0 +1,9 @@
+{
+  "name": "insights-mode",
+  "description": "Explains architecture decisions, trade-offs, and patterns while writing complete code",
+  "version": "1.0.0",
+  "author": {
+    "name": "Geisson"
+  },
+  "tags": ["education", "architecture", "patterns", "nestjs", "flutter", "typescript"]
+}

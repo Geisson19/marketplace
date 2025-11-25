@@ -1,0 +1,10 @@
+{
+  "name": "geisson-plugins",
+  "description": "Personal Claude Code plugins - insights mode for learning architecture patterns",
+  "plugins": [
+    {
+      "name": "insights-mode",
+      "path": "./plugins/insights-mode"
+    }
+  ]
+}
